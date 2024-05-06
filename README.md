@@ -1,2 +1,3 @@
 # Vendor-Management-System-with-Performance-Metrics
-Developed a Vendor Management System using Django and Django REST Framework. This system will handle vendor profiles, track purchase orders, and calculate vendor performance metrics.
+**Introduction**
+This project is developed using Django and Django REST Framework to provide a comprehensive solution for managing vendor profiles, tracking purchase orders, and evaluating vendor performance metrics.
