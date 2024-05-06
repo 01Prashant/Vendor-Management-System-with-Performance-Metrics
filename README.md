@@ -8,13 +8,13 @@ This project is developed using Django and Django REST Framework to provide a co
 
 1. Vendor Profile Management
 
-a. Create, retrieve, update, and delete vendor profiles.
+  a. Create, retrieve, update, and delete vendor profiles.
 
-b. Store vendor information including name, contact details, address, and a unique vendor code.
+    b. Store vendor information including name, contact details, address, and a unique vendor code.
 
 2. Purchase Order Tracking
 
-a. Track purchase orders with details like PO number, vendor reference, order date, items, quantity, and status.
+      a. Track purchase orders with details like PO number, vendor reference, order date, items, quantity, and status.
 
 b. Filter purchase orders by vendor.
 
