@@ -56,5 +56,4 @@ To run the project on your system, follow these steps:
 **Additional Notes**
 
 1. Ensure that you have Python and pip installed on your system.
-2. Token-based authentication is required to access API endpoints. Please refer to the API documentation for authentication instructions.
-3. Follow PEP 8 style guidelines for any modifications or contributions to the project.
+2. Follow PEP 8 style guidelines for any modifications or contributions to the project.
