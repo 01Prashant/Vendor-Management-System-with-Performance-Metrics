@@ -23,3 +23,11 @@ This project is developed using Django and Django REST Framework to provide a co
       a. Calculate performance metrics including on-time delivery rate, quality rating average, response time, and fulfilment rate.
 
       b. Retrieve performance metrics for a specific vendor.
+
+**Setup Instructions**
+
+To run the project on your system, follow these steps:
+
+1.Clone the Repository:
+
+      git clone https://github.com/01Prashant/Vendor-Management-System-with-Performance-Metrics
