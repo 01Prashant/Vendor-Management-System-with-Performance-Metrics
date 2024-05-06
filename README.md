@@ -34,7 +34,7 @@ To run the project on your system, follow these steps:
 
 2.Install Dependencies:
 
-      cd <project_directory>
+      cd vendor_management_system
       pip install -r requirements.txt
 
 3.Database Setup:
